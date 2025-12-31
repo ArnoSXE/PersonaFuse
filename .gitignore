@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# Outputs
+personafuse_output.json
+
+# OS
+.DS_Store
+Thumbs.db
